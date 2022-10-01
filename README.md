@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me 
 
-[My Website] (https://artur-santos.netlify.app/)
+[My Website](https://artur-santos.netlify.app/)
+<br/>
 [linkedIn](https://www.linkedin.com/in/artur-santos-978923251/)
 
 
