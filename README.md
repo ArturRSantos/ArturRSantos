@@ -5,7 +5,7 @@
 
 [My Website](https://artur-santos.netlify.app/)
 <br/>
-[linkedIn](https://www.linkedin.com/in/artur-santos-978923251/)
+[linkedIn](https://www.linkedin.com/in/artur-g-s)
 
 
 <!---
